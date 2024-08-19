@@ -28,7 +28,7 @@ Para todas as pessoas que possuem dúvidas em relação a doação de sangue, e 
 
 - [@Nicole Siqueira](https://www.github.com/nisiq)
 - [@Julia Roberta](https://www.github.com/juliaRobertav)
-- [@Allana Coqueiro](https://www.github.com/AVITORIAC)
+- [@Allana Vieira](https://www.github.com/AVITORIAC)
 - [@Daniel Corte](https://www.github.com/danielcorte)
 - [@Eduarda Puertas](https://www.github.com/eepuertas)
 
